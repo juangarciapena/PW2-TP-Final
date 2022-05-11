@@ -30,7 +30,7 @@ class Mailer {
         //Definimos la cuenta que vamos a usar. Dirección completa de la misma
         $mail->Username   = "gauchorockettest@gmail.com";
         //Introducimos nuestra contraseña de gmail
-        $mail->Password   = "11gauchorocket";
+        $mail->Password   = "//password//";
         //Definimos el remitente (dirección y, opcionalmente, nombre)
         $mail->SetFrom('gauchorockettest@gmail.com', 'Gaucho Rocket');
         
